@@ -100,6 +100,7 @@
 					2E91ECDE1E3BBAE100E9BF2C = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = Y2YHB76Q95;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -306,6 +307,7 @@
 				2E91ECF31E3BBAE100E9BF2C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
