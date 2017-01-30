@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'FantasticView_Huy'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'By far the most fantastic view I have seen in my entire life. No joke.'
  
   s.description      = <<-DESC
