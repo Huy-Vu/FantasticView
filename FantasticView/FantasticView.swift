@@ -8,11 +8,17 @@
 
 import UIKit
 
+
+/// View that auto-change background color
 public class FantasticView: UIView {
     
     let colors: [UIColor] = [.red, .orange, .yellow, .green, .blue, .purple, .gray]
     var colorCounter = 0
     
+    
+    /// Adding the color rotation logic when initialize with frame
+    ///
+    /// - Parameter frame: frame to draw the view
     public override init(frame: CGRect) {
         super.init(frame: frame)
         
